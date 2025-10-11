@@ -119,6 +119,13 @@ Enjoying the project? **[Support me with a coffee](https://ko-fi.com/phenry)** â
 [![@phenrysay][x-icon]](https://x.com/phenrysay "Follow Me on X") [![YouTube Tech Videos][youtube-icon]](https://www.youtube.com/@pH7Programming "My YouTube Tech Channel") [![pH-7][github-icon]](https://github.com/pH-7 "Follow Me on GitHub")
 
 
+## Me Building This Project (short)
+
+[![Watch the video](https://i1.ytimg.com/vi/k-VqvNKFn4A/maxresdefault.jpg)](https://youtu.be/k-VqvNKFn4A)
+
+ðŸ‘‰ **[Click Here to Watch on YouTube](https://youtu.be/k-VqvNKFn4A)**
+
+
 ## Tech Stack
 
 - React Native
@@ -160,14 +167,6 @@ Apple Watch Integration: Expo doesn't provide direct support for developing Appl
 
 Custom Native Code: The app requires custom native code for the WatchConnectivity framework to enable communication between the iPhone app and the Apple Watch app.
 Full Control: For a production app with complex requirements like iCloud integration and Apple Watch support, having full control over the native code provides more flexibility.
-
-
-## Acknowledgments
-
-- React Native community
-- React Native Paper team
-- React Native Voice contributors
-- Apple WatchKit and WatchConnectivity frameworks
 
 
 ## License
