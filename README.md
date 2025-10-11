@@ -1,4 +1,4 @@
-# Hermit Weekend
+# Hermit Weekend Project
 
 A React Native mobile app for capturing, transcribing, and organizing notes from real-life interactions, with Apple Watch support.
 
