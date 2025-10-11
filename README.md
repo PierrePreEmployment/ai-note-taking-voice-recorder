@@ -126,17 +126,6 @@ Enjoying the project? **[Support me with a coffee](https://ko-fi.com/phenry)** â
 ðŸ‘‰ **[Click Here to Watch on YouTube](https://youtu.be/k-VqvNKFn4A)**
 
 
-## Tech Stack
-
-- React Native
-- TypeScript
-- React Navigation
-- React Native Paper (UI components)
-- React Native Voice (Speech recognition)
-- AsyncStorage (Local storage)
-- React Native Markdown Display
-- WatchConnectivity (for Apple Watch integration)
-
 ## Project Structure
 
 ```
